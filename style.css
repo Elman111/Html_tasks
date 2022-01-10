@@ -1,0 +1,19 @@
+.text{
+    margin-top: 7cm;
+    margin-left: 12cm;
+    background-color:rgb(18, 143, 143);
+    width: 500px;
+    height: 300px;
+    border-top-left-radius: 1.5cm;
+    border-bottom-right-radius: 1.5cm;
+    border-left: 15px solid rgb(102, 53, 18);
+    border-right: 15px solid  rgb(102, 53, 18);
+    
+}
+h1{
+    color:white;
+    text-align: center;
+    padding-top: 85px;
+   font-size: 100px;
+}
+
